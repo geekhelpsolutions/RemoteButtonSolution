@@ -1,0 +1,6 @@
+[submodule "esp32-wilco"]
+	path = esp32-wilco
+	url = https://github.com/geekhelpsolutions/esp32-wilco
+[submodule "esp32-nvshelper"]
+	path = esp32-nvshelper
+	url = https://github.com/geekhelpsolutions/esp32-nvshelper
