@@ -21,5 +21,8 @@
     <ClInclude Include="..\..\..\..\..\grant.leroux%40gmail.com\Documents\ArduinoSolutions\RemoteButton\RemoteButton\__vm\.RemoteButton.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\grant.leroux%40gmail.com\Documents\Arduino\RemoteButtonSolution\RemoteButton\__vm\.RemoteButton.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

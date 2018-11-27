@@ -4,12 +4,13 @@
  Author:	grant
 */
 
+#include <FS.h>
 #include <WiFiClientSecure.h>
 #include <PubSubClient.h>
 #include <WebServer.h>
 #include <DNSServer.h>
 #include <WiFi.h>
-#include "WILCO.h"
+#include <WILCO.h>
 
 WILCO wilco;
 
