@@ -4,3 +4,6 @@
 [submodule "esp32-nvshelper"]
 	path = esp32-nvshelper
 	url = https://github.com/geekhelpsolutions/esp32-nvshelper
+[submodule "mqtthelper"]
+	path = mqtthelper
+	url = https://github.com/geekhelpsolutions/mqtthelper

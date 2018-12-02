@@ -9,12 +9,16 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "esp32-wilco", "esp32-wilco\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "esp32-nvshelper", "esp32-nvshelper\esp32-nvshelper.vcxitems", "{5D618C23-5ED8-4519-99F5-31955B2C56F6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mqtthelper", "mqtthelper\mqtthelper.vcxitems", "{1CCB14A6-0490-47C6-BB3A-B298572F6E7B}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		mqtthelper\mqtthelper.vcxitems*{1ccb14a6-0490-47c6-bb3a-b298572f6e7b}*SharedItemsImports = 9
 		esp32-wilco\esp32-wilco.vcxitems*{575442df-18b0-46f3-846f-0a283ef22ee5}*SharedItemsImports = 9
 		esp32-nvshelper\esp32-nvshelper.vcxitems*{5d618c23-5ed8-4519-99f5-31955b2c56f6}*SharedItemsImports = 9
 		esp32-nvshelper\esp32-nvshelper.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
 		esp32-wilco\esp32-wilco.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		mqtthelper\mqtthelper.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
